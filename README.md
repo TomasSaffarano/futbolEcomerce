@@ -1,5 +1,10 @@
 # 🧢 FutbolEcommerce ⚽
 
+ > ⚠️ **Importante:** Antes de ejecutar `npm install`, asegurate de posicionarte dentro del directorio del proyecto con:
+
+```bash
+cd futbolEcomerce
+
 **Este es un proyecto hecho por y para futboleros.**  
 Creado por un estudiante que busca aprobar el seminario con la nota justa 😅. La propuesta es simple: un e-commerce genérico, pero centrado exclusivamente en **camisetas de fútbol**.
 
