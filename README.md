@@ -16,9 +16,3 @@ Gracias por pasar. ¡Explorá, agregá al carrito y soñá con tu próxima camis
 
 ---
 
-## 📋 Datos del estudiante
-
-- **Nombre:** Tomás Alfredo Saffarano  
-- **DNI:** 42.883.149  
-- **Email:** [tomassaffarano1@gmail.com](mailto:tomassaffarano1@gmail.com)  
-- **Sede:** Tandil  
